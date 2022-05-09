@@ -1,3 +1,9 @@
+# Built src
+/dist
+
+# Coverage jest
+/coverage
+
 # Logs
 logs
 *.log

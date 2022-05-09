@@ -1,0 +1,7 @@
+import React from 'react';
+
+export class FlowchartingPanelController extends React.Component<FlowchartingPanelControllerProps, FlowchartingPanelControllerState>{
+    constructor(props : FlowchartingPanelControllerProps) {
+        super(props)
+    }
+}
